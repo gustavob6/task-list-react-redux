@@ -1,0 +1,13 @@
+.item{
+  display: flex;
+  flex-direction: column;
+  padding: 4px;
+  margin: 7px;
+  text-align: center;
+  justify-content: center;
+}
+
+.item-btn{
+  display: flex;
+  justify-content: center;
+}

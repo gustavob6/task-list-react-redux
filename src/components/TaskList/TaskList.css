@@ -1,0 +1,8 @@
+.no-searched{
+    width: 50%;
+}
+
+.cont-search{
+    display: flex;
+    justify-content: center;
+}

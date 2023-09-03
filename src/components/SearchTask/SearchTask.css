@@ -1,0 +1,14 @@
+.item{
+  display: flex;
+  flex-direction: column;
+  padding: 4px;
+  margin: 7px;
+  text-align: center;
+  justify-content: center;
+}
+
+.search1{
+  border: 2px solid #16a3e4; 
+  padding: 7px 14px 9px; 
+  transition: 0.4s;
+}

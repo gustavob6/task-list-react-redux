@@ -1,0 +1,46 @@
+.taskItem{
+    display: flex;
+    list-style: none;
+    margin: 10px;
+    justify-content: center;
+}
+.text1{
+    font-size: 15px;
+    margin:10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.item-task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px !important;
+    line-height: 10px;
+    width: 75%;
+}
+.item-btns{
+    display: flex;
+    flex-direction: row;
+}
+.edit{
+    cursor: pointer;
+}
+.edit:hover{
+    color: #339CFF;
+}
+
+.complete{
+    cursor: pointer;
+}
+
+.complete:hover{
+    color:green;
+}
+
+.delete{
+    cursor: pointer;
+}
+.delete:hover{
+    color:red
+}

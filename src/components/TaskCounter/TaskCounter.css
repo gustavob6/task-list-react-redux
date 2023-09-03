@@ -1,0 +1,14 @@
+.text{
+  text-align: center;
+}
+.task-counter{
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+}
+.counter{
+    width: 70%;
+}
+.counter-2{
+    width: 60%;
+}
